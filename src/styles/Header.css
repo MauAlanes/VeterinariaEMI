@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.contenedor{
+    background-color: hwb(0 8% 90%);
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+.contenedor ul{
+    display: flex;
+    justify-content: space-around;
+    margin: 0; padding: 0;
+}
