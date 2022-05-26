@@ -4,12 +4,14 @@
 .contenedor{
     background-color: hwb(0 8% 90%);
     width: 100%;
-    position: fixed;
-    z-index: 1;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
 }
 
 .contenedor ul{
     display: flex;
     justify-content: space-around;
     margin: 0; padding: 0;
+    position: relative;
+    z-index: 1;
 }
